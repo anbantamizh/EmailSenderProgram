@@ -1,0 +1,10 @@
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram\bin\Debug\netcoreapp2.2\EmailSenderProgram.deps.json
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram\bin\Debug\netcoreapp2.2\EmailSenderProgram.runtimeconfig.json
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram\bin\Debug\netcoreapp2.2\EmailSenderProgram.runtimeconfig.dev.json
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram\bin\Debug\netcoreapp2.2\EmailSenderProgram.dll
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram\bin\Debug\netcoreapp2.2\EmailSenderProgram.pdb
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram\obj\Debug\netcoreapp2.2\EmailSenderProgram.csproj.CoreCompileInputs.cache
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram\obj\Debug\netcoreapp2.2\EmailSenderProgram.AssemblyInfoInputs.cache
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram\obj\Debug\netcoreapp2.2\EmailSenderProgram.AssemblyInfo.cs
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram\obj\Debug\netcoreapp2.2\EmailSenderProgram.dll
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram\obj\Debug\netcoreapp2.2\EmailSenderProgram.pdb

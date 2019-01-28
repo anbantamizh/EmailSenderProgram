@@ -1,0 +1,15 @@
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\bin\Debug\netcoreapp2.2\Mono.Cecil.dll
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\bin\Debug\netcoreapp2.2\EmailSenderProgram.Tests.deps.json
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\bin\Debug\netcoreapp2.2\EmailSenderProgram.Tests.runtimeconfig.json
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\bin\Debug\netcoreapp2.2\EmailSenderProgram.Tests.runtimeconfig.dev.json
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\bin\Debug\netcoreapp2.2\EmailSenderProgram.Tests.dll
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\bin\Debug\netcoreapp2.2\EmailSenderProgram.dll
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\bin\Debug\netcoreapp2.2\EmailSenderProgram.pdb
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\obj\Debug\netcoreapp2.2\EmailSenderProgram.Tests.csprojAssemblyReference.cache
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\obj\Debug\netcoreapp2.2\EmailSenderProgram.Tests.csproj.CoreCompileInputs.cache
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\obj\Debug\netcoreapp2.2\EmailSenderProgram.Tests.AssemblyInfoInputs.cache
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\obj\Debug\netcoreapp2.2\EmailSenderProgram.Tests.AssemblyInfo.cs
+C:\Materials\EmailSenderProgramCore\EmailSenderProgram.Tests\obj\Debug\netcoreapp2.2\EmailSenderProgram.Tests.csproj.CopyComplete
